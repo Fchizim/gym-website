@@ -7,4 +7,4 @@ This is a web page for gym website
 3. Javascript
 
 # Follow me on
-Twitter - [@fred_chizim] (https://www.twitter.com/fred_chizim "Fred")
+Twitter - [@fred_chizim](https://www.twitter.com/fred_chizim "Fred")
